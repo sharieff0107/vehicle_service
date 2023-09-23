@@ -1,2 +1,2 @@
 # vehicle_service
-vehicle_service is a php project 
+ vehicle_service using HTML, CSS, JS
